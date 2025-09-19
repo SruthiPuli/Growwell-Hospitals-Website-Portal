@@ -1,4 +1,5 @@
-# Growwell Hospitals - Full Stack Web Application
+# Growwell Hospitals Website Portal 
+## Full Stack Web Application
 
 Growwell Hospitals is a full-stack web application for doctor appointments, patient visit tracking, and diagnostic center management with secure user authentication.
 
