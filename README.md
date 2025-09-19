@@ -5,6 +5,8 @@ Growwell Hospitals is a full-stack web application for doctor appointments, pati
 
 🌐 **Live Demo:** [(https://growwell-hospitals-website-portal.onrender.com)](https://growwell-hospitals-website-portal.onrender.com)
 
+### Please wait for 2-3 minutes when you access the website, because it takes some time to allocate the resources and start rendering
+
 👨‍⚕️ Book appointments with doctors  
 🏥 Track patient visits and history  
 🧪 Manage diagnostic center reports  
