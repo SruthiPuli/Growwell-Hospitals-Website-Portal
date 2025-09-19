@@ -83,7 +83,7 @@ export default function HomePage() {
 
                 <div className='home-page-container-1'>
                         <div className='heading'>Discover the Centres of Clinical Excellence in Hyderabad</div>
-                        <div className='inner-text-home'>At Apollo Hospitals Hyderabad, we bring together world-class technology, experienced specialists, and a patient-centred approach to redefine healthcare. With a commitment to innovation and excellence, we cater to diverse medical needs not only for Hyderabad but also from across India and abroad.</div>
+                        <div className='inner-text-home'>At Growwell Hospitals Hyderabad, we bring together world-class technology, experienced specialists, and a patient-centred approach to redefine healthcare. With a commitment to innovation and excellence, we cater to diverse medical needs not only for Hyderabad but also from across India and abroad.</div>
                 
                     
                         <div className="home-page-cards-container">
