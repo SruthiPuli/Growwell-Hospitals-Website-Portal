@@ -6,5 +6,3 @@ react-bootstrap
 @fortawesome/fontawesome-free
 @fortawesome/react-fontawesome
 sweetalert2
-vite
-@vitejs/plugin-react
