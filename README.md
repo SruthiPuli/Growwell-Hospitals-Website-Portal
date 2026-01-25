@@ -39,6 +39,12 @@ Node.js and npm are required to run and manage the ReactJS frontend of this proj
 - **npm (Node Package Manager)** is used to install, manage, and update project dependencies such as React, Vite, Bootstrap, and other frontend libraries.
 
 ### Installation Steps
+
+#### Clone the Repository
+
+```bash
+git clone https://github.com/SruthiPuli/Growwell-Hospitals-Website-Portal.git
+```
 #### Install Node.js
 1. Visit the official Node.js website:
 [https://nodejs.org](https://nodejs.org)
