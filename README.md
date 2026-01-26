@@ -51,6 +51,7 @@ Node.js and npm are required to run and manage the ReactJS frontend of this proj
 
 ```bash
 git clone https://github.com/SruthiPuli/Growwell-Hospitals-Website-Portal.git
+cd Growwell-Hospitals-Website-Portal
 ```
 #### Install Node.js
 1. Visit the official Node.js website:
