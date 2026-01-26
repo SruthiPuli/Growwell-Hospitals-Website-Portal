@@ -6,13 +6,20 @@
 **Live Demo :** [(https://growwell-hospitals-website-portal.onrender.com)](https://growwell-hospitals-website-portal.onrender.com)
 ### Please wait for 2-3 minutes when you access the website, because it takes some time to allocate the resources and start rendering
 
+## Screenshots
+
+<img width="1920" height="1080" alt="Image1" src="https://github.com/user-attachments/assets/59403831-dbde-44d5-af58-1521ec43240c" />
+<img width="1920" height="1080" alt="Image3" src="https://github.com/user-attachments/assets/fba894f1-3ac5-4ff7-982d-582f46b487bb" />
+<img width="1920" height="1080" alt="Image5" src="https://github.com/user-attachments/assets/c5992edf-24ea-4cb5-a021-ebaa8df9dff1" />
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Key Features](#key-features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Screenshots](#screenshots)
+2. [Screenshots](#screenshots)
+3. [Key Features](#key-features)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Configuration](#configuration)
 7. [Tech Stack](#tech-stack)
 8. [Folder Structure](#folder-structure)
 9. [Contributions](#contributions)
@@ -273,7 +280,6 @@ DEBUG=True
 SECRET_KEY=your-secret-key-here
 # secret key is visible in django settings.py
 ```
-## Screenshots
 
 ## Tech Stack
 
